@@ -1,4 +1,2 @@
 streamlit
-io
-os
 zipfile
